@@ -1,0 +1,6 @@
+{
+  "appId": "com.meniscusorthometer.app",
+  "appName": "Meniscus Orthometer",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
